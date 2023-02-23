@@ -1,5 +1,3 @@
-use std::f32::consts::E;
-
 /// various log levels
 #[derive(Clone, PartialEq, Eq, Debug)]
 pub enum LogLevel {
